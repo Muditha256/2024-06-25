@@ -134,4 +134,4 @@
 
 // for(let i = 0; i < customers.length; i++){
 //     console.log(customers[i].name);
-// }
+// }1
